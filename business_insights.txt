@@ -1,0 +1,4 @@
+BUSINESS INSIGHTS
+- Highest-revenue product: Laptop (Rs. 5,850.00)
+- Highest-revenue region: North (Rs. 4,217.00)
+- Highest-revenue month: 2026-01 (Rs. 2,120.00)
